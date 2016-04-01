@@ -1,5 +1,5 @@
 module CBSON [system] {
-    header "bson.h"
+    header "../bson.h"
     link "bson"
     export *
 }
